@@ -1,0 +1,3 @@
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Source\FPSGame\Public\FPSObjectiveActor.h
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSObjectiveActor.generated.h

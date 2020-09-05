@@ -1,14 +1,21 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4).
   Parsing headers for FPSGameEditor
     Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\FPSGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for FPSGameEditor in 7.4138267 seconds
+  Reflection code generated for FPSGameEditor in 7.2499634 seconds
   Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 8 processes...
-    [1/4] FPSAIGuard.cpp
-    [2/4] UE4Editor-FPSGame.lib
-       Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame.exp
-    [3/4] UE4Editor-FPSGame.dll
-       Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame.suppressed.exp
-    [4/4] FPSGameEditor.target
-  Total time in Parallel executor: 2.04 seconds
-  Total execution time: 10.36 seconds
+  Building 11 actions with 8 processes...
+    [1/11] FPSCharacter.gen.cpp
+c1xx : error C3859: Failed to create virtual memory for PCH
+    c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+    
+    
+    c1xx: note: please visit https://aka.ms/pch-help for more details
+c1xx : fatal error C1076: compiler limit: internal heap limit reached
+    [2/11] FPSGame.init.gen.cpp
+    [3/11] FPSAIGuard.gen.cpp
+    [4/11] FPSAIGuard.cpp
+    [5/11] FPSObjectiveActor.cpp
+    [6/11] FPSExtractionZone.cpp
+    [7/11] FPSGameMode.cpp
+    [8/11] FPSCharacter.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.23\Engine\Build\BatchFiles\Build.bat" FPSGameEditor Win64 Development -Project="C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\FPSGame.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.

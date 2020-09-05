@@ -8,13 +8,36 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class APawn;
 #ifdef FPSGAME_FPSAIGuard_generated_h
 #error "FPSAIGuard.generated.h already included, missing '#pragma once' in FPSAIGuard.h"
 #endif
 #define FPSGAME_FPSAIGuard_generated_h
 
-#define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_14_RPC_WRAPPERS
-#define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_14_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnPawnSeen) \
+	{ \
+		P_GET_OBJECT(APawn,Z_Param_SeenPawn); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnPawnSeen(Z_Param_SeenPawn); \
+		P_NATIVE_END; \
+	}
+
+
+#define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnPawnSeen) \
+	{ \
+		P_GET_OBJECT(APawn,Z_Param_SeenPawn); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnPawnSeen(Z_Param_SeenPawn); \
+		P_NATIVE_END; \
+	}
+
+
 #define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAFPSAIGuard(); \

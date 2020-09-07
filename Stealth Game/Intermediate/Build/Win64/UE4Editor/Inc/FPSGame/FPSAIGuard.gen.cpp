@@ -21,6 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeFPSAIGuard() {}
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 	ENGINE_API UClass* Z_Construct_UClass_APawn_NoRegister();
 	FPSGAME_API UFunction* Z_Construct_UFunction_AFPSAIGuard_OnPawnSeen();
+	FPSGAME_API UFunction* Z_Construct_UFunction_AFPSAIGuard_ResetOrientation();
 	AIMODULE_API UClass* Z_Construct_UClass_UPawnSensingComponent_NoRegister();
 // End Cross Module References
 	void AFPSAIGuard::StaticRegisterNativesAFPSAIGuard()
@@ -29,6 +30,7 @@ void EmptyLinkFunctionForGeneratedCodeFPSAIGuard() {}
 		static const FNameNativePtrPair Funcs[] = {
 			{ "OnNoiseHeard", &AFPSAIGuard::execOnNoiseHeard },
 			{ "OnPawnSeen", &AFPSAIGuard::execOnPawnSeen },
+			{ "ResetOrientation", &AFPSAIGuard::execResetOrientation },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
 	}
@@ -112,6 +114,30 @@ void EmptyLinkFunctionForGeneratedCodeFPSAIGuard() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_AFPSAIGuard_ResetOrientation_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AFPSAIGuard_ResetOrientation_Statics::Function_MetaDataParams[] = {
+		{ "Comment", "//FRotator TargetRotation;\n//float RotationSpeed = 800.0f;\n" },
+		{ "ModuleRelativePath", "Public/FPSAIGuard.h" },
+		{ "ToolTip", "FRotator TargetRotation;\nfloat RotationSpeed = 800.0f;" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AFPSAIGuard_ResetOrientation_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AFPSAIGuard, nullptr, "ResetOrientation", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00080401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AFPSAIGuard_ResetOrientation_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_AFPSAIGuard_ResetOrientation_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AFPSAIGuard_ResetOrientation()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AFPSAIGuard_ResetOrientation_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_AFPSAIGuard_NoRegister()
 	{
 		return AFPSAIGuard::StaticClass();
@@ -138,6 +164,7 @@ void EmptyLinkFunctionForGeneratedCodeFPSAIGuard() {}
 	const FClassFunctionLinkInfo Z_Construct_UClass_AFPSAIGuard_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_AFPSAIGuard_OnNoiseHeard, "OnNoiseHeard" }, // 2738794650
 		{ &Z_Construct_UFunction_AFPSAIGuard_OnPawnSeen, "OnPawnSeen" }, // 1013308351
+		{ &Z_Construct_UFunction_AFPSAIGuard_ResetOrientation, "ResetOrientation" }, // 4172016581
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AFPSAIGuard_Statics::Class_MetaDataParams[] = {
@@ -184,7 +211,7 @@ void EmptyLinkFunctionForGeneratedCodeFPSAIGuard() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AFPSAIGuard, 1760312054);
+	IMPLEMENT_CLASS(AFPSAIGuard, 3670284178);
 	template<> FPSGAME_API UClass* StaticClass<AFPSAIGuard>()
 	{
 		return AFPSAIGuard::StaticClass();

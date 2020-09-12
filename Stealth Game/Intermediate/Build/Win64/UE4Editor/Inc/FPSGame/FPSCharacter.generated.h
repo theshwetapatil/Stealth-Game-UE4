@@ -13,8 +13,44 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FPSGAME_FPSCharacter_generated_h
 
-#define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_RPC_WRAPPERS
-#define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_RPC_WRAPPERS_NO_PURE_DECLS
+#define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_RPC_WRAPPERS \
+	virtual bool ServerFire_Validate(); \
+	virtual void ServerFire_Implementation(); \
+ \
+	DECLARE_FUNCTION(execServerFire) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		if (!P_THIS->ServerFire_Validate()) \
+		{ \
+			RPC_ValidateFailed(TEXT("ServerFire_Validate")); \
+			return; \
+		} \
+		P_THIS->ServerFire_Implementation(); \
+		P_NATIVE_END; \
+	}
+
+
+#define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+	virtual bool ServerFire_Validate(); \
+	virtual void ServerFire_Implementation(); \
+ \
+	DECLARE_FUNCTION(execServerFire) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		if (!P_THIS->ServerFire_Validate()) \
+		{ \
+			RPC_ValidateFailed(TEXT("ServerFire_Validate")); \
+			return; \
+		} \
+		P_THIS->ServerFire_Implementation(); \
+		P_NATIVE_END; \
+	}
+
+
+#define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_EVENT_PARMS
+#define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_CALLBACK_WRAPPERS
 #define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAFPSCharacter(); \
@@ -64,12 +100,16 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFPSCharacter); \
 	FORCEINLINE static uint32 __PPO__NoiseEmitterComponent() { return STRUCT_OFFSET(AFPSCharacter, NoiseEmitterComponent); }
 
 
-#define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_18_PROLOG
+#define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_18_PROLOG \
+	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_EVENT_PARMS
+
+
 #define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_PRIVATE_PROPERTY_OFFSET \
 	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_RPC_WRAPPERS \
+	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_CALLBACK_WRAPPERS \
 	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_INCLASS \
 	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_STANDARD_CONSTRUCTORS \
 public: \
@@ -81,6 +121,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_PRIVATE_PROPERTY_OFFSET \
 	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_CALLBACK_WRAPPERS \
 	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_INCLASS_NO_PURE_DECLS \
 	Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_ENHANCED_CONSTRUCTORS \
 private: \

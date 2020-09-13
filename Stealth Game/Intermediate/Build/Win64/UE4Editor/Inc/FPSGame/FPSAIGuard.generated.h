@@ -18,6 +18,14 @@ enum class EAIState : uint8;
 
 #define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_22_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execOnRep_GuardState) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnRep_GuardState(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execResetOrientation) \
 	{ \
 		P_FINISH; \
@@ -48,6 +56,14 @@ enum class EAIState : uint8;
 
 
 #define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnRep_GuardState) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->OnRep_GuardState(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execResetOrientation) \
 	{ \
@@ -92,7 +108,8 @@ private: \
 	friend struct Z_Construct_UClass_AFPSAIGuard_Statics; \
 public: \
 	DECLARE_CLASS(AFPSAIGuard, ACharacter, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FPSGame"), NO_API) \
-	DECLARE_SERIALIZER(AFPSAIGuard)
+	DECLARE_SERIALIZER(AFPSAIGuard) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 
 
 #define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_22_INCLASS \
@@ -101,7 +118,8 @@ private: \
 	friend struct Z_Construct_UClass_AFPSAIGuard_Statics; \
 public: \
 	DECLARE_CLASS(AFPSAIGuard, ACharacter, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FPSGame"), NO_API) \
-	DECLARE_SERIALIZER(AFPSAIGuard)
+	DECLARE_SERIALIZER(AFPSAIGuard) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 
 
 #define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_22_STANDARD_CONSTRUCTORS \
@@ -129,7 +147,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AFPSAIGuard); \
 
 
 #define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_22_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__PawnSensingComp() { return STRUCT_OFFSET(AFPSAIGuard, PawnSensingComp); }
+	FORCEINLINE static uint32 __PPO__PawnSensingComp() { return STRUCT_OFFSET(AFPSAIGuard, PawnSensingComp); } \
+	FORCEINLINE static uint32 __PPO__GuardState() { return STRUCT_OFFSET(AFPSAIGuard, GuardState); }
 
 
 #define Stealth_Game_Source_FPSGame_Public_FPSAIGuard_h_19_PROLOG \

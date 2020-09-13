@@ -57,7 +57,8 @@ private: \
 	friend struct Z_Construct_UClass_AFPSCharacter_Statics; \
 public: \
 	DECLARE_CLASS(AFPSCharacter, ACharacter, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FPSGame"), NO_API) \
-	DECLARE_SERIALIZER(AFPSCharacter)
+	DECLARE_SERIALIZER(AFPSCharacter) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 
 
 #define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_INCLASS \
@@ -66,7 +67,8 @@ private: \
 	friend struct Z_Construct_UClass_AFPSCharacter_Statics; \
 public: \
 	DECLARE_CLASS(AFPSCharacter, ACharacter, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/FPSGame"), NO_API) \
-	DECLARE_SERIALIZER(AFPSCharacter)
+	DECLARE_SERIALIZER(AFPSCharacter) \
+	void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 
 
 #define Stealth_Game_Source_FPSGame_Public_FPSCharacter_h_21_STANDARD_CONSTRUCTORS \

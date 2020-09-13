@@ -1,0 +1,1490 @@
+﻿Log file open, 09/13/20 19:09:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPSGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.116560
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Engine.ini]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Engine.ini]
+[2020.09.13-13.39.16:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Engine.ini]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Engine.ini]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.13-13.39.16:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Engine.ini]
+[2020.09.13-13.39.16:978][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Engine.ini]
+[2020.09.13-13.39.16:982][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.13-13.39.16:982][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.13-13.39.16:983][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.13-13.39.16:984][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.13-13.39.16:984][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.13-13.39.16:984][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.13-13.39.16:984][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.13-13.39.16:984][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.13-13.39.16:984][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.13-13.39.16:984][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.13-13.39.16:984][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:984][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.13-13.39.16:984][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.13-13.39.16:984][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.13-13.39.16:984][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.13-13.39.16:988][  0]LogHAL: Display: Platform has ~ 16 GB [17125855232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.13-13.39.16:988][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.13-13.39.16:988][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.13-13.39.16:988][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Scalability.ini]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.13-13.39.16:989][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.13-13.39.16:990][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.13-13.39.16:990][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.13-13.39.16:990][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Config/Windows/Engine.ini]
+[2020.09.13-13.39.16:990][  0]LogInit: Computer: DESKTOP-C697CL8
+[2020.09.13-13.39.16:990][  0]LogInit: User: ADMIN
+[2020.09.13-13.39.16:990][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.13-13.39.16:990][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.13-13.39.16:990][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.09.13-13.39.16:990][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.13-13.39.16:990][  0]LogMemory: Process Physical Memory: 100.66 MB used, 100.66 MB peak
+[2020.09.13-13.39.16:990][  0]LogMemory: Process Virtual Memory: 88.52 MB used, 88.52 MB peak
+[2020.09.13-13.39.16:990][  0]LogMemory: Physical Memory: 5331.91 MB used,  11000.57 MB free, 16332.49 MB total
+[2020.09.13-13.39.16:990][  0]LogMemory: Virtual Memory: 4656.49 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.09.13-13.39.16:993][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.13-13.39.17:024][  0]LogInit: Using OS detected language (en-US).
+[2020.09.13-13.39.17:024][  0]LogInit: Using OS detected locale (en-US).
+[2020.09.13-13.39.17:025][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.09.13-13.39.17:266][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.13-13.39.17:308][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.13-13.39.17:309][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.13-13.39.17:615][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.13-13.39.17:615][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.13-13.39.17:729][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.09.13-13.39.17:729][  0]LogD3D11RHI:       4018/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.09.13-13.39.17:733][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.13-13.39.17:733][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.13-13.39.17:733][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.13-13.39.17:745][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.13-13.39.17:745][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.13-13.39.17:745][  0]LogWindows: EnumDisplayDevices:
+[2020.09.13-13.39.17:745][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2020.09.13-13.39.17:746][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2020.09.13-13.39.17:746][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.09.13-13.39.17:747][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.09.13-13.39.17:747][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.09.13-13.39.17:747][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.09.13-13.39.17:747][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.09.13-13.39.17:747][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.09.13-13.39.17:747][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.09.13-13.39.17:842][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.13-13.39.17:860][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.13-13.39.18:414][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.09.13-13.39.18:428][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.09.13-13.39.18:446][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.09.13-13.39.18:460][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.09.13-13.39.18:477][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.09.13-13.39.18:493][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.09.13-13.39.18:505][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.13-13.39.18:520][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.09.13-13.39.18:527][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.09.13-13.39.18:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.09.13-13.39.18:587][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.09.13-13.39.18:591][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.09.13-13.39.18:627][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.09.13-13.39.18:627][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.09.13-13.39.18:658][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.09.13-13.39.18:659][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.09.13-13.39.18:670][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.09.13-13.39.18:684][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.13-13.39.18:699][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.09.13-13.39.18:715][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.09.13-13.39.18:760][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.09.13-13.39.18:760][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.09.13-13.39.18:760][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.13-13.39.18:777][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.13-13.39.18:889][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Intermediate/Shaders/WorkingDirectory/2584/).
+[2020.09.13-13.39.18:889][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ADMIN/AppData/Local/Temp/UnrealShaderWorkingDir/621F540A4DD734DE4DCA81816CB60398/'.
+[2020.09.13-13.39.18:894][  0]LogXGEController: Cleaning working directory: C:/Users/ADMIN/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.09.13-13.39.18:895][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.13-13.39.18:895][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.13-13.39.18:895][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.13-13.39.19:804][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.13-13.39.19:859][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/ADMIN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.13-13.39.19:859][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ADMIN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.09.13-13.39.19:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.13-13.39.19:860][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.13-13.39.19:860][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.13-13.39.19:860][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.13-13.39.19:876][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.13-13.39.19:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.13-13.39.19:877][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.13-13.39.19:878][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ADMIN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.13-13.39.19:879][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.13-13.39.19:879][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.13-13.39.19:906][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.13-13.39.19:910][  0]LogSlate: Using FreeType 2.6.0
+[2020.09.13-13.39.19:911][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.13-13.39.20:011][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2020.09.13-13.39.20:411][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.13-13.39.20:639][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.13-13.39.20:639][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.13-13.39.20:639][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.13-13.39.20:639][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.13-13.39.20:640][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.13-13.39.20:655][  0]LogNetVersion: FPSGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2384151453)
+[2020.09.13-13.39.21:280][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.072596 seconds
+[2020.09.13-13.39.21:294][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.09.13-13.39.21:294][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.09.13-13.39.21:294][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.13-13.39.22:702][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.13-13.39.22:706][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.13-13.39.22:946][  0]SourceControl: Source control is disabled
+[2020.09.13-13.39.22:946][  0]SourceControl: Source control is disabled
+[2020.09.13-13.39.22:948][  0]SourceControl: Source control is disabled
+[2020.09.13-13.39.22:949][  0]SourceControl: Source control is disabled
+[2020.09.13-13.39.23:082][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.13-13.39.23:297][  0]LogOcInput: OculusInput pre-init called
+[2020.09.13-13.39.23:308][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.13-13.39.23:308][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.13-13.39.23:402][  0]LogEngine: Initializing Engine...
+[2020.09.13-13.39.23:403][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.13-13.39.23:405][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.13-13.39.23:717][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.13-13.39.23:742][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.13-13.39.23:768][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.13-13.39.23:799][  0]LogInit: FAudioDevice initialized.
+[2020.09.13-13.39.23:799][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.13-13.39.23:902][  0]LogDerivedDataCache: Saved boot cache 0.10s 75MB C:/Users/ADMIN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.13-13.39.23:905][  0]LogInit: Texture streaming: Enabled
+[2020.09.13-13.39.23:937][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.13-13.39.23:937][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.13-13.39.23:938][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.13-13.39.24:005][  0]LogInit: Transaction tracking system initialized
+[2020.09.13-13.39.24:061][  0]BlueprintLog: New page: Editor Load
+[2020.09.13-13.39.24:211][  0]LocalizationService: Localization service is disabled
+[2020.09.13-13.39.24:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Content/' took 0.00s
+[2020.09.13-13.39.24:610][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.13-13.39.24:610][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.13-13.39.24:923][  0]SourceControl: Source control is disabled
+[2020.09.13-13.39.24:923][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Content/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.13-13.39.24:924][  0]LightingResults: New page: Lighting Build
+[2020.09.13-13.39.24:928][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-13.39.24:928][  0]MapCheck: New page: Map Check
+[2020.09.13-13.39.24:928][  0]LightingResults: New page: Lighting Build
+[2020.09.13-13.39.24:959][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.09.13-13.39.25:205][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-13.39.25:215][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.09.13-13.39.25:249][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.09.13-13.39.25:249][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.13-13.39.25:250][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.414ms to complete.
+[2020.09.13-13.39.25:250][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.327
+[2020.09.13-13.39.25:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-13.39.25:379][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-13.39.25:390][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-13.39.25:404][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-13.39.25:414][  0]LogCollectionManager: Loaded 0 collections in 0.002994 seconds
+[2020.09.13-13.39.25:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Saved/Collections/' took 0.00s
+[2020.09.13-13.39.25:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Content/Developers/ADMIN/Collections/' took 0.00s
+[2020.09.13-13.39.25:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Content/Collections/' took 0.00s
+[2020.09.13-13.39.25:426][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.09.13-13.39.25:440][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2870 classes and 683 folders.
+[2020.09.13-13.39.25:452][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.09.13-13.39.25:527][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.09.13-13.39.25:541][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.09.13-13.39.25:667][  0]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.13-13.39.25:671][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.13-13.39.25:679][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.13-13.39.25:799][  0]LogRenderer: Reallocating scene render targets to support 880x316 Format 10 NumSamples 1 (Frame:1).
+[2020.09.13-13.39.25:967][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.09.13-13.39.25:967][  0]LogLoad: (Engine Initialization) Total time: 10.77 seconds
+[2020.09.13-13.39.25:967][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.13-13.39.26:033][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.13-13.39.26:378][  2]LogAssetRegistry: Asset discovery search completed in 6.3685 seconds
+[2020.09.13-13.39.26:387][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2020.09.13-13.39.26:387][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000162 seconds (updated 0 objects)
+[2020.09.13-13.39.27:363][  5]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.13-13.47.10:978][481]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.13-13.47.15:034][938]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.13-13.47.15:088][938]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.13-13.47.15:101][938]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.13-13.47.27:245][831]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={0F672983-44E2-52FD-70DD-6DBB3595C4C0}
+[2020.09.13-13.48.04:330][391]Candidate modules for hot reload:
+[2020.09.13-13.48.04:330][391]  FPSGame
+[2020.09.13-13.48.04:330][391]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,8688 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject"  -IgnoreJunk]
+[2020.09.13-13.48.18:476][391]CompilerResultsLog: New page: Compilation - Sep 14, 2020, 12:48:18 AM
+[2020.09.13-13.48.18:477][391]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4).
+[2020.09.13-13.48.18:477][391]CompilerResultsLog: Invalidating makefile for FPSGameEditor (source file added)
+[2020.09.13-13.48.18:477][391]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.09.13-13.48.18:477][391]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\FPSGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.09.13-13.48.18:477][391]CompilerResultsLog: Reflection code generated for FPSGameEditor in 8.3831975 seconds
+[2020.09.13-13.48.18:477][391]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.09.13-13.48.18:477][391]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.09.13-13.48.18:477][391]CompilerResultsLog:   [1/6] FPSGame.init.gen.cpp
+[2020.09.13-13.48.18:477][391]CompilerResultsLog:   [2/6] FPSGameState.cpp
+[2020.09.13-13.48.18:477][391]CompilerResultsLog:   [3/6] FPSGameState.gen.cpp
+[2020.09.13-13.48.18:477][391]CompilerResultsLog:   [4/6] UE4Editor-FPSGame-8688.lib
+[2020.09.13-13.48.18:477][391]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-8688.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-8688.exp
+[2020.09.13-13.48.18:477][391]CompilerResultsLog:   [5/6] UE4Editor-FPSGame-8688.dll
+[2020.09.13-13.48.18:477][391]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-8688.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-8688.suppressed.exp
+[2020.09.13-13.48.18:477][391]CompilerResultsLog:   [6/6] FPSGameEditor.target
+[2020.09.13-13.48.18:477][391]CompilerResultsLog: Total time in Parallel executor: 2.32 seconds
+[2020.09.13-13.48.18:477][391]CompilerResultsLog: Total execution time: 14.02 seconds
+[2020.09.13-13.48.18:477][391]LogMainFrame: MainFrame: Module compiling took 14.151 seconds
+[2020.09.13-13.48.18:507][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.09.13-13.48.18:524][391]LogClass: Could not find existing class FPSGameState in package /Script/FPSGame for HotReload, assuming new class
+[2020.09.13-13.48.18:535][391]LogClass: EAIState HotReload.
+[2020.09.13-13.48.18:552][391]LogContentBrowser: Native class hierarchy updated for 'FPSGame' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2020.09.13-13.48.18:559][391]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2020.09.13-13.48.18:643][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.09.13-13.48.18:661][391]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2872 classes and 685 folders.
+[2020.09.13-13.48.18:661][391]Display: HotReload took 14.4s.
+[2020.09.13-13.48.18:663][391]Warning: HotReload operation took 14.4s.
+[2020.09.13-13.48.18:977][391]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/Source/FPSGame/Private/FPSGameState.cpp'
+[2020.09.13-13.48.18:986][391]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.09.13-13.48.18:996][391]LogHotReload: New module detected: UE4Editor-FPSGame-8688.dll
+[2020.09.13-13.48.19:027][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.09.13-13.48.19:056][392]LogHotReload: Starting Hot-Reload from IDE
+[2020.09.13-13.48.19:118][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.09.13-13.48.19:126][392]LogContentBrowser: Native class hierarchy updated for 'FPSGame' in 0.0007 seconds. Added 8 classes and 3 folders.
+[2020.09.13-13.48.19:132][392]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.09.13-13.48.19:161][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.09.13-13.48.19:183][392]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2872 classes and 685 folders.
+[2020.09.13-13.48.19:187][392]Display: HotReload took  0.1s.
+[2020.09.13-14.30.33:630][ 97]Candidate modules for hot reload:
+[2020.09.13-14.30.33:631][ 97]  FPSGame
+[2020.09.13-14.30.33:631][ 97]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,2203 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject"  -IgnoreJunk]
+[2020.09.13-14.30.33:634][ 97]Warning: Starting HotReload took  0.0s.
+[2020.09.13-14.30.46:739][605]CompilerResultsLog: New page: Compilation - Sep 14, 2020, 1:30:46 AM
+[2020.09.13-14.30.46:739][605]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4).
+[2020.09.13-14.30.46:740][605]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.09.13-14.30.46:740][605]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\FPSGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.09.13-14.30.46:740][605]CompilerResultsLog: Reflection code generated for FPSGameEditor in 8.1669584 seconds
+[2020.09.13-14.30.46:740][605]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.09.13-14.30.46:740][605]CompilerResultsLog: Building 7 actions with 8 processes...
+[2020.09.13-14.30.46:740][605]CompilerResultsLog:   [1/7] FPSGame.init.gen.cpp
+[2020.09.13-14.30.46:740][605]CompilerResultsLog:   [2/7] FPSGameState.cpp
+[2020.09.13-14.30.46:740][605]CompilerResultsLog:   [3/7] FPSGameState.gen.cpp
+[2020.09.13-14.30.46:740][605]CompilerResultsLog:   [4/7] FPSGameMode.cpp
+[2020.09.13-14.30.46:740][605]CompilerResultsLog:   [5/7] UE4Editor-FPSGame-2203.lib
+[2020.09.13-14.30.46:740][605]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-2203.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-2203.exp
+[2020.09.13-14.30.46:740][605]CompilerResultsLog:   [6/7] UE4Editor-FPSGame-2203.dll
+[2020.09.13-14.30.46:740][605]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-2203.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-2203.suppressed.exp
+[2020.09.13-14.30.46:740][605]CompilerResultsLog:   [7/7] FPSGameEditor.target
+[2020.09.13-14.30.46:740][605]CompilerResultsLog: Total time in Parallel executor: 3.28 seconds
+[2020.09.13-14.30.46:740][605]CompilerResultsLog: Total execution time: 12.96 seconds
+[2020.09.13-14.30.46:740][605]LogMainFrame: MainFrame: Module compiling took 13.114 seconds
+[2020.09.13-14.30.46:770][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.09.13-14.30.46:785][605]LogClass: Could not find existing class FPSGameState in package /Script/FPSGame for HotReload, assuming new class
+[2020.09.13-14.30.46:785][605]LogClass: Function MulticastOnMissionComplete is new.
+[2020.09.13-14.30.46:793][605]LogClass: EAIState HotReload.
+[2020.09.13-14.30.46:804][605]LogHotReload: Re-instancing FPSGameMode after hot-reload.
+[2020.09.13-14.30.46:939][605]LogHotReload: Re-instancing FPSGameState after hot-reload.
+[2020.09.13-14.30.47:051][605]LogContentBrowser: Native class hierarchy updated for 'FPSGame' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2020.09.13-14.30.47:055][605]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2020.09.13-14.30.47:131][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.09.13-14.30.47:149][605]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2872 classes and 685 folders.
+[2020.09.13-14.30.47:149][605]Display: HotReload took 13.5s.
+[2020.09.13-14.30.49:698][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.30.49:847][927]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.13-14.30.49:865][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.30.49:865][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.13-14.30.49:866][927]PIE: New page: PIE session: FirstPersonExampleMap (Sep 14, 2020, 1:30:49 AM)
+[2020.09.13-14.30.49:867][927]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.13-14.30.49:869][927]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.30.49:891][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021923s)
+[2020.09.13-14.30.49:892][927]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.30.49:893][927]LogPlayLevel: PIE: World Init took: (0.001771s)
+[2020.09.13-14.30.49:893][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap (0.024239s)
+[2020.09.13-14.30.49:920][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.09.13-14.30.49:937][927]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.13-14.30.49:959][927]LogInit: FAudioDevice initialized.
+[2020.09.13-14.30.49:968][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.30.49:970][927]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.13-14.30.49:975][927]LogWorld: Bringing World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.00.49
+[2020.09.13-14.30.49:977][927]LogWorld: Bringing up level for play took: 0.005139
+[2020.09.13-14.30.49:977][927]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.09.13-14.30.50:028][927]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.09.13-14.30.50:030][927]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.30.50:030][927]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.09.13-14.30.50:030][927]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.30.50:030][927]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.13-14.30.50:030][927]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.13-14.30.50:030][927]LogInit: WinSock: I am DESKTOP-C697CL8 (192.168.0.33:0)
+[2020.09.13-14.30.50:030][927]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.13-14.30.50:031][927]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.30.50:031][927]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.09.13-14.30.50:031][927]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.09.13-14.30.50:527][927]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.495 s
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: === Handled ensure: ===
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: 
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: Ensure condition failed: InvocationList[ CurFunctionIndex ] != InDelegate [File:C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h] [Line: 556]
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: 
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: Stack: 
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffc36c72349 UE4Editor-FPSGame-2203.dll!<lambda_33ec7e2fb0bb60ac30de90dfe42b338e>::operator()() [C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject\ScriptDelegates.h:556]
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffc36c63565 UE4Editor-FPSGame-2203.dll!TMulticastScriptDelegate<FWeakObjectPtr>::Add() [C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject\ScriptDelegates.h:327]
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffc36c637c6 UE4Editor-FPSGame-2203.dll!AFPSAIGuard::BeginPlay() [C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Source\FPSGame\Private\FPSAIGuard.cpp:28]
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbea6e06b6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbeb944710 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbeadd8d81 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbeb8f244e UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbead9ad29 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbe8d950b3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbe8dcd846 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbe8db42fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbe8dce265 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbe888d9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffbe90e5296 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ff79ac97b0a UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ff79acaa91c UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ff79acaa9fa UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ff79acbb92c UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ff79acbe60e UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffc433b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: [Callstack] 0x00007ffc4412ce51 ntdll.dll!UnknownFunction []
+[2020.09.13-14.30.50:527][927]LogOutputDevice: Error: 
+[2020.09.13-14.30.50:539][927]LogStats:                SubmitErrorReport -  0.000 s
+[2020.09.13-14.30.51:081][927]LogStats:                    SendNewReport -  0.543 s
+[2020.09.13-14.30.51:081][927]LogStats:             FDebug::EnsureFailed -  1.050 s
+[2020.09.13-14.30.51:088][927]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_FirstPersonExampleMap 1.472
+[2020.09.13-14.30.51:098][927]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.13-14.30.51:107][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.30.51:107][927]LogNet: Browse: 127.0.0.1:17777//Game/Maps/FirstPersonExampleMap
+[2020.09.13-14.30.51:107][927]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.30.51:107][927]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.09.13-14.30.51:107][927]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.13-14.30.51:108][927]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.13-14.30.51:108][927]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.30.51:109][927]LogNet: Game client on port 17777, rate 10000
+[2020.09.13-14.30.51:112][927]PIE: Play in editor start time for /Game/Maps/FirstPersonExampleMap 1.495
+[2020.09.13-14.30.51:117][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.30.51:118][927]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56060
+[2020.09.13-14.30.51:118][927]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 228041067023252184181238090223063153077049097021181138027184
+[2020.09.13-14.30.51:128][927]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 228041067023252184181238090223063153077049097021181138027184
+[2020.09.13-14.30.51:200][928]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.09.13-14.30.51:201][928]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56060
+[2020.09.13-14.30.51:201][928]LogHandshake: SendChallengeAck. InCookie: 228041067023252184181238090223063153077049097021181138027184
+[2020.09.13-14.30.51:201][928]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56060
+[2020.09.13-14.30.51:202][928]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.30.51:202][928]LogNet: NotifyAcceptedConnection: Name: FirstPersonExampleMap, TimeStamp: 09/13/20 20:00:51, [UNetConnection] RemoteAddr: 127.0.0.1:56060, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.30.51:202][928]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56060, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.30.51:204][928]LogNetVersion: FPSGame 1.0.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 746894560)
+[2020.09.13-14.30.51:204][928]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.30.51:342][929]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap: Accepted
+[2020.09.13-14.30.51:342][929]LogNet: Remote platform little endian=1
+[2020.09.13-14.30.51:342][929]LogNet: This platform little endian=1
+[2020.09.13-14.30.51:343][929]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.09.13-14.30.51:357][930]LogNet: Login request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-CE2BE5B0491D80637250F0864D45BF1B userId: NULL:DESKTOP-C697CL8-CE2BE5B0491D80637250F0864D45BF1B platform: NULL
+[2020.09.13-14.30.51:359][930]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_FirstPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.13-14.30.51:359][930]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_FirstPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.13-14.30.51:359][930]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2020.09.13-14.30.51:359][930]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.30.51:387][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.09.13-14.30.51:408][930]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.30.51:409][930]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.30.51:412][930]LogWorld: Bringing World /Game/Maps/UEDPIE_2_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.00.51
+[2020.09.13-14.30.51:413][930]LogWorld: Bringing up level for play took: 0.003522
+[2020.09.13-14.30.51:413][930]LogLoad: Took 0.054217 seconds to LoadMap(/Game/Maps/UEDPIE_1_FirstPersonExampleMap)
+[2020.09.13-14.30.51:440][931]LogNet: Client netspeed is 10000
+[2020.09.13-14.30.51:440][931]LogNet: Join request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-CE2BE5B0491D80637250F0864D45BF1B?SplitscreenCount=1
+[2020.09.13-14.30.51:441][931]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.30.51:444][931]LogNet: Join succeeded: DESKTOP-C697CL8-CE2B
+[2020.09.13-14.30.51:502][934]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.30.51:535][936]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.30.55:140][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.31.05:422][107]LogTemp: Overlapped with extraction zone!
+[2020.09.13-14.31.05:433][108]LogTemp: Overlapped with extraction zone!
+[2020.09.13-14.31.09:258][442]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.31.09:258][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.31.09:258][442]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_FirstPersonExampleMap
+[2020.09.13-14.31.09:274][442]LogSlate: Window 'FPSGame Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.31.09:279][442]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.31.09:290][442]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.09.13-14.31.09:290][442]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.09.13-14.31.09:290][442]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-CE2BE5B0491D80637250F0864D45BF1B, Channels: 13, Time: 2020.09.13-14.31.09
+[2020.09.13-14.31.09:290][442]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-CE2BE5B0491D80637250F0864D45BF1B
+[2020.09.13-14.31.09:290][442]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.09.13-14.31.09:292][442]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.31.09:292][442]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.09.13-14.31.09:293][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.31.09:311][442]LogSlate: Window 'FPSGame Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.31.09:324][442]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.31.09:338][442]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.09.13-14.31.09:338][442]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.09.13-14.31.09:339][442]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56060, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-CE2BE5B0491D80637250F0864D45BF1B
+[2020.09.13-14.31.09:339][442]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56060, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-CE2BE5B0491D80637250F0864D45BF1B, Channels: 13, Time: 2020.09.13-14.31.09
+[2020.09.13-14.31.09:339][442]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56060, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-CE2BE5B0491D80637250F0864D45BF1B
+[2020.09.13-14.31.09:340][442]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.09.13-14.31.09:341][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.13-14.31.09:342][442]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.31.09:383][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.09.13-14.31.09:403][443]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.09.13-14.31.09:404][443]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.09.13-14.31.10:929][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.31.11:071][639]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.13-14.31.11:084][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.31.11:084][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.13-14.31.11:085][639]PIE: New page: PIE session: FirstPersonExampleMap (Sep 14, 2020, 1:31:11 AM)
+[2020.09.13-14.31.11:085][639]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.31.11:101][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016023s)
+[2020.09.13-14.31.11:102][639]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.31.11:102][639]LogPlayLevel: PIE: World Init took: (0.001469s)
+[2020.09.13-14.31.11:103][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap (0.017886s)
+[2020.09.13-14.31.11:130][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.09.13-14.31.11:150][639]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.13-14.31.11:171][639]LogInit: FAudioDevice initialized.
+[2020.09.13-14.31.11:180][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.31.11:180][639]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.13-14.31.11:183][639]LogWorld: Bringing World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.01.11
+[2020.09.13-14.31.11:185][639]LogWorld: Bringing up level for play took: 0.003877
+[2020.09.13-14.31.11:185][639]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.09.13-14.31.11:189][639]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.31.11:189][639]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2020.09.13-14.31.11:189][639]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.31.11:189][639]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.13-14.31.11:189][639]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.13-14.31.11:190][639]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.13-14.31.11:190][639]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.31.11:190][639]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2020.09.13-14.31.11:194][639]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_FirstPersonExampleMap -0.423
+[2020.09.13-14.31.11:204][639]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.13-14.31.11:211][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.31.11:212][639]LogNet: Browse: 127.0.0.1:17777//Game/Maps/FirstPersonExampleMap
+[2020.09.13-14.31.11:212][639]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.31.11:212][639]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2020.09.13-14.31.11:212][639]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.13-14.31.11:212][639]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.13-14.31.11:213][639]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.31.11:213][639]LogNet: Game client on port 17777, rate 10000
+[2020.09.13-14.31.11:216][639]PIE: Play in editor start time for /Game/Maps/FirstPersonExampleMap -0.401
+[2020.09.13-14.31.11:222][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.31.11:222][639]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56061
+[2020.09.13-14.31.11:222][639]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 245031235014177232165189193160107154248051182098151191128056
+[2020.09.13-14.31.11:224][639]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 245031235014177232165189193160107154248051182098151191128056
+[2020.09.13-14.31.11:285][640]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56061
+[2020.09.13-14.31.11:285][640]LogHandshake: SendChallengeAck. InCookie: 245031235014177232165189193160107154248051182098151191128056
+[2020.09.13-14.31.11:285][640]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56061
+[2020.09.13-14.31.11:286][640]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.31.11:286][640]LogNet: NotifyAcceptedConnection: Name: FirstPersonExampleMap, TimeStamp: 09/13/20 20:01:11, [UNetConnection] RemoteAddr: 127.0.0.1:56061, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.31.11:286][640]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56061, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.31.11:287][640]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.31.11:305][641]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap: Accepted
+[2020.09.13-14.31.11:305][641]LogNet: Remote platform little endian=1
+[2020.09.13-14.31.11:305][641]LogNet: This platform little endian=1
+[2020.09.13-14.31.11:306][641]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.09.13-14.31.11:320][642]LogNet: Login request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-4B1D8EAA4DE019FA8E11B8B66076EF22 userId: NULL:DESKTOP-C697CL8-4B1D8EAA4DE019FA8E11B8B66076EF22 platform: NULL
+[2020.09.13-14.31.11:322][642]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_FirstPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.13-14.31.11:322][642]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_FirstPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.13-14.31.11:322][642]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2020.09.13-14.31.11:322][642]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.31.11:350][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.13-14.31.11:368][642]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.31.11:368][642]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.31.11:370][642]LogWorld: Bringing World /Game/Maps/UEDPIE_2_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.01.11
+[2020.09.13-14.31.11:371][642]LogWorld: Bringing up level for play took: 0.001941
+[2020.09.13-14.31.11:371][642]LogLoad: Took 0.049131 seconds to LoadMap(/Game/Maps/UEDPIE_1_FirstPersonExampleMap)
+[2020.09.13-14.31.11:387][643]LogNet: Client netspeed is 10000
+[2020.09.13-14.31.11:387][643]LogNet: Join request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-4B1D8EAA4DE019FA8E11B8B66076EF22?SplitscreenCount=1
+[2020.09.13-14.31.11:388][643]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.31.11:389][643]LogNet: Join succeeded: DESKTOP-C697CL8-4B1D
+[2020.09.13-14.31.11:465][648]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.31.11:490][650]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.31.21:896][536]LogTemp: Overlapped with extraction zone!
+[2020.09.13-14.31.21:907][537]LogTemp: Overlapped with extraction zone!
+[2020.09.13-14.31.24:311][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.31.24:311][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.31.24:311][748]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_FirstPersonExampleMap
+[2020.09.13-14.31.24:326][748]LogSlate: Window 'FPSGame Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.31.24:329][748]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.31.24:335][748]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2020.09.13-14.31.24:335][748]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2020.09.13-14.31.24:335][748]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-4B1D8EAA4DE019FA8E11B8B66076EF22, Channels: 13, Time: 2020.09.13-14.31.24
+[2020.09.13-14.31.24:336][748]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-4B1D8EAA4DE019FA8E11B8B66076EF22
+[2020.09.13-14.31.24:336][748]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2020.09.13-14.31.24:337][748]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.31.24:337][748]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.09.13-14.31.24:337][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.31.24:350][748]LogSlate: Window 'FPSGame Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.31.24:355][748]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.31.24:369][748]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2020.09.13-14.31.24:369][748]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2020.09.13-14.31.24:369][748]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56061, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-4B1D8EAA4DE019FA8E11B8B66076EF22
+[2020.09.13-14.31.24:369][748]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56061, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-4B1D8EAA4DE019FA8E11B8B66076EF22, Channels: 13, Time: 2020.09.13-14.31.24
+[2020.09.13-14.31.24:369][748]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56061, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-4B1D8EAA4DE019FA8E11B8B66076EF22
+[2020.09.13-14.31.24:370][748]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2020.09.13-14.31.24:371][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.13-14.31.24:371][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.31.24:411][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.09.13-14.31.24:431][749]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.09.13-14.31.24:431][749]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.09.13-14.31.27:742][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.31.27:745][141]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.13-14.35.17:008][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.35.17:286][371]Candidate modules for hot reload:
+[2020.09.13-14.35.17:286][371]  FPSGame
+[2020.09.13-14.35.17:286][371]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,8401 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject"  -IgnoreJunk]
+[2020.09.13-14.35.17:289][371]Warning: Starting HotReload took  0.0s.
+[2020.09.13-14.35.28:951][718]CompilerResultsLog: New page: Compilation - Sep 14, 2020, 1:35:28 AM
+[2020.09.13-14.35.28:951][718]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4).
+[2020.09.13-14.35.28:952][718]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.09.13-14.35.28:952][718]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\FPSGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.09.13-14.35.28:953][718]CompilerResultsLog: Reflection code generated for FPSGameEditor in 8.0825596 seconds
+[2020.09.13-14.35.28:954][718]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.09.13-14.35.28:954][718]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.09.13-14.35.28:955][718]CompilerResultsLog:   [1/4] FPSGameState.cpp
+[2020.09.13-14.35.28:956][718]CompilerResultsLog:   [2/4] UE4Editor-FPSGame-8401.lib
+[2020.09.13-14.35.28:956][718]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-8401.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-8401.exp
+[2020.09.13-14.35.28:957][718]CompilerResultsLog:   [3/4] UE4Editor-FPSGame-8401.dll
+[2020.09.13-14.35.28:958][718]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-8401.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-8401.suppressed.exp
+[2020.09.13-14.35.28:959][718]CompilerResultsLog:   [4/4] FPSGameEditor.target
+[2020.09.13-14.35.28:959][718]CompilerResultsLog: Total time in Parallel executor: 2.01 seconds
+[2020.09.13-14.35.28:959][718]CompilerResultsLog: Total execution time: 11.54 seconds
+[2020.09.13-14.35.28:959][718]LogMainFrame: MainFrame: Module compiling took 11.678 seconds
+[2020.09.13-14.35.28:984][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.09.13-14.35.29:010][718]LogClass: EAIState HotReload.
+[2020.09.13-14.35.29:026][718]LogContentBrowser: Native class hierarchy updated for 'FPSGame' in 0.0006 seconds. Added 8 classes and 3 folders.
+[2020.09.13-14.35.29:030][718]Display: HotReload successful (8 functions remapped  0 scriptstructs remapped)
+[2020.09.13-14.35.29:100][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.09.13-14.35.29:118][718]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2872 classes and 685 folders.
+[2020.09.13-14.35.29:118][718]Display: HotReload took 11.8s.
+[2020.09.13-14.35.48:048][775]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.13-14.35.48:066][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.35.48:067][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.13-14.35.48:068][775]PIE: New page: PIE session: FirstPersonExampleMap (Sep 14, 2020, 1:35:48 AM)
+[2020.09.13-14.35.48:068][775]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.35.48:089][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020941s)
+[2020.09.13-14.35.48:091][775]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.35.48:092][775]LogPlayLevel: PIE: World Init took: (0.002387s)
+[2020.09.13-14.35.48:092][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap (0.024425s)
+[2020.09.13-14.35.48:124][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.09.13-14.35.48:146][775]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.13-14.35.48:170][775]LogInit: FAudioDevice initialized.
+[2020.09.13-14.35.48:180][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.35.48:180][775]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.13-14.35.48:184][775]LogWorld: Bringing World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.05.48
+[2020.09.13-14.35.48:185][775]LogWorld: Bringing up level for play took: 0.003739
+[2020.09.13-14.35.48:186][775]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.09.13-14.35.48:190][775]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.35.48:190][775]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2020.09.13-14.35.48:190][775]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.35.48:190][775]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.13-14.35.48:190][775]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.13-14.35.48:191][775]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.13-14.35.48:191][775]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.35.48:191][775]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2020.09.13-14.35.48:192][775]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.09.13-14.35.48:348][775]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.156 s
+[2020.09.13-14.35.48:349][775]LogOutputDevice: Error: === Handled ensure: ===
+[2020.09.13-14.35.48:349][775]LogOutputDevice: Error: 
+[2020.09.13-14.35.48:349][775]LogOutputDevice: Error: Ensure condition failed: InvocationList[ CurFunctionIndex ] != InDelegate [File:C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h] [Line: 556]
+[2020.09.13-14.35.48:349][775]LogOutputDevice: Error: 
+[2020.09.13-14.35.48:349][775]LogOutputDevice: Error: Stack: 
+[2020.09.13-14.35.48:349][775]LogOutputDevice: Error: [Callstack] 0x00007ffc366d2349 UE4Editor-FPSGame-8401.dll!<lambda_33ec7e2fb0bb60ac30de90dfe42b338e>::operator()() [C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject\ScriptDelegates.h:556]
+[2020.09.13-14.35.48:350][775]LogOutputDevice: Error: [Callstack] 0x00007ffc366c3565 UE4Editor-FPSGame-8401.dll!TMulticastScriptDelegate<FWeakObjectPtr>::Add() [C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject\ScriptDelegates.h:327]
+[2020.09.13-14.35.48:350][775]LogOutputDevice: Error: [Callstack] 0x00007ffc366c37c6 UE4Editor-FPSGame-8401.dll!AFPSAIGuard::BeginPlay() [C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Source\FPSGame\Private\FPSAIGuard.cpp:28]
+[2020.09.13-14.35.48:350][775]LogOutputDevice: Error: [Callstack] 0x00007ffbea6e06b6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.35.48:351][775]LogOutputDevice: Error: [Callstack] 0x00007ffbeb944710 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.35.48:351][775]LogOutputDevice: Error: [Callstack] 0x00007ffbeadd8d81 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.35.48:351][775]LogOutputDevice: Error: [Callstack] 0x00007ffbeb8f244e UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.35.48:351][775]LogOutputDevice: Error: [Callstack] 0x00007ffbead9ad29 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.35.48:351][775]LogOutputDevice: Error: [Callstack] 0x00007ffbe8d950b3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.35.48:351][775]LogOutputDevice: Error: [Callstack] 0x00007ffbe8dcd846 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.35.48:352][775]LogOutputDevice: Error: [Callstack] 0x00007ffbe8db42fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.35.48:352][775]LogOutputDevice: Error: [Callstack] 0x00007ffbe8dce265 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.35.48:352][775]LogOutputDevice: Error: [Callstack] 0x00007ffbe888d9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.35.48:352][775]LogOutputDevice: Error: [Callstack] 0x00007ffbe90e5296 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.35.48:352][775]LogOutputDevice: Error: [Callstack] 0x00007ff79ac97b0a UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.35.48:352][775]LogOutputDevice: Error: [Callstack] 0x00007ff79acaa91c UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.35.48:352][775]LogOutputDevice: Error: [Callstack] 0x00007ff79acaa9fa UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.35.48:353][775]LogOutputDevice: Error: [Callstack] 0x00007ff79acbb92c UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.35.48:353][775]LogOutputDevice: Error: [Callstack] 0x00007ff79acbe60e UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.35.48:353][775]LogOutputDevice: Error: [Callstack] 0x00007ffc433b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.09.13-14.35.48:353][775]LogOutputDevice: Error: [Callstack] 0x00007ffc4412ce51 ntdll.dll!UnknownFunction []
+[2020.09.13-14.35.48:353][775]LogOutputDevice: Error: 
+[2020.09.13-14.35.48:361][775]LogStats:                SubmitErrorReport -  0.000 s
+[2020.09.13-14.35.48:850][775]LogStats:                    SendNewReport -  0.489 s
+[2020.09.13-14.35.48:850][775]LogStats:             FDebug::EnsureFailed -  0.658 s
+[2020.09.13-14.35.48:853][775]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_FirstPersonExampleMap 1.236
+[2020.09.13-14.35.48:860][775]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.13-14.35.48:868][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.35.48:869][775]LogNet: Browse: 127.0.0.1:17777//Game/Maps/FirstPersonExampleMap
+[2020.09.13-14.35.48:869][775]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.35.48:869][775]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2020.09.13-14.35.48:870][775]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.13-14.35.48:870][775]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.13-14.35.48:871][775]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.35.48:871][775]LogNet: Game client on port 17777, rate 10000
+[2020.09.13-14.35.48:874][775]PIE: Play in editor start time for /Game/Maps/FirstPersonExampleMap 1.257
+[2020.09.13-14.35.48:878][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.35.48:880][775]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62065
+[2020.09.13-14.35.48:880][775]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 111037249023204214240201155236001016176150114045021062157164
+[2020.09.13-14.35.48:882][775]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 111037249023204214240201155236001016176150114045021062157164
+[2020.09.13-14.35.48:978][776]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62065
+[2020.09.13-14.35.48:979][776]LogHandshake: SendChallengeAck. InCookie: 111037249023204214240201155236001016176150114045021062157164
+[2020.09.13-14.35.48:979][776]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62065
+[2020.09.13-14.35.48:980][776]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.35.48:980][776]LogNet: NotifyAcceptedConnection: Name: FirstPersonExampleMap, TimeStamp: 09/13/20 20:05:48, [UNetConnection] RemoteAddr: 127.0.0.1:62065, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.35.48:981][776]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62065, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.35.48:983][776]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.35.49:082][777]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap: Accepted
+[2020.09.13-14.35.49:082][777]LogNet: Remote platform little endian=1
+[2020.09.13-14.35.49:082][777]LogNet: This platform little endian=1
+[2020.09.13-14.35.49:085][777]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.09.13-14.35.49:097][778]LogNet: Login request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-0197A3AD4006FF116BBF9FB43AB3A2E7 userId: NULL:DESKTOP-C697CL8-0197A3AD4006FF116BBF9FB43AB3A2E7 platform: NULL
+[2020.09.13-14.35.49:099][778]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_FirstPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.13-14.35.49:099][778]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_FirstPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.13-14.35.49:099][778]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2020.09.13-14.35.49:099][778]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.35.49:142][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.09.13-14.35.49:163][778]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.35.49:163][778]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.35.49:166][778]LogWorld: Bringing World /Game/Maps/UEDPIE_2_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.05.49
+[2020.09.13-14.35.49:167][778]LogWorld: Bringing up level for play took: 0.002618
+[2020.09.13-14.35.49:167][778]LogLoad: Took 0.067623 seconds to LoadMap(/Game/Maps/UEDPIE_1_FirstPersonExampleMap)
+[2020.09.13-14.35.49:188][779]LogNet: Client netspeed is 10000
+[2020.09.13-14.35.49:188][779]LogNet: Join request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-0197A3AD4006FF116BBF9FB43AB3A2E7?SplitscreenCount=1
+[2020.09.13-14.35.49:189][779]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.35.49:191][779]LogNet: Join succeeded: DESKTOP-C697CL8-0197
+[2020.09.13-14.35.49:223][781]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.35.49:255][783]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.35.51:086][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.35.57:029][481]LogTemp: Overlapped with extraction zone!
+[2020.09.13-14.35.57:039][482]LogTemp: Overlapped with extraction zone!
+[2020.09.13-14.36.01:779][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.36.01:780][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.36.01:780][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_FirstPersonExampleMap
+[2020.09.13-14.36.01:796][921]LogSlate: Window 'FPSGame Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.36.01:801][921]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.36.01:813][921]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2020.09.13-14.36.01:813][921]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2020.09.13-14.36.01:813][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-0197A3AD4006FF116BBF9FB43AB3A2E7, Channels: 13, Time: 2020.09.13-14.36.01
+[2020.09.13-14.36.01:814][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-0197A3AD4006FF116BBF9FB43AB3A2E7
+[2020.09.13-14.36.01:814][921]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2020.09.13-14.36.01:816][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.36.01:816][921]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.09.13-14.36.01:817][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.36.01:832][921]LogSlate: Window 'FPSGame Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.36.01:845][921]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.36.01:852][921]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2020.09.13-14.36.01:853][921]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2020.09.13-14.36.01:853][921]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62065, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-0197A3AD4006FF116BBF9FB43AB3A2E7
+[2020.09.13-14.36.01:854][921]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62065, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-0197A3AD4006FF116BBF9FB43AB3A2E7, Channels: 13, Time: 2020.09.13-14.36.01
+[2020.09.13-14.36.01:855][921]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62065, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-0197A3AD4006FF116BBF9FB43AB3A2E7
+[2020.09.13-14.36.01:856][921]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2020.09.13-14.36.01:857][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.13-14.36.01:857][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.36.01:898][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.09.13-14.36.01:917][922]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.09.13-14.36.01:917][922]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.09.13-14.36.03:188][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.36.03:329][ 87]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.13-14.36.03:344][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.36.03:344][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.13-14.36.03:344][ 87]PIE: New page: PIE session: FirstPersonExampleMap (Sep 14, 2020, 1:36:03 AM)
+[2020.09.13-14.36.03:345][ 87]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.36.03:361][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016595s)
+[2020.09.13-14.36.03:363][ 87]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.36.03:363][ 87]LogPlayLevel: PIE: World Init took: (0.001568s)
+[2020.09.13-14.36.03:363][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap (0.018754s)
+[2020.09.13-14.36.03:391][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.09.13-14.36.03:409][ 87]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.13-14.36.03:430][ 87]LogInit: FAudioDevice initialized.
+[2020.09.13-14.36.03:438][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.36.03:439][ 87]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.13-14.36.03:443][ 87]LogWorld: Bringing World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.06.03
+[2020.09.13-14.36.03:444][ 87]LogWorld: Bringing up level for play took: 0.003315
+[2020.09.13-14.36.03:444][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.09.13-14.36.03:447][ 87]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.36.03:448][ 87]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2020.09.13-14.36.03:448][ 87]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.36.03:448][ 87]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.13-14.36.03:448][ 87]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.13-14.36.03:449][ 87]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.13-14.36.03:449][ 87]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.36.03:449][ 87]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2020.09.13-14.36.03:451][ 87]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_FirstPersonExampleMap -0.166
+[2020.09.13-14.36.03:458][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.13-14.36.03:464][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.36.03:464][ 87]LogNet: Browse: 127.0.0.1:17777//Game/Maps/FirstPersonExampleMap
+[2020.09.13-14.36.03:465][ 87]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.36.03:465][ 87]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2020.09.13-14.36.03:465][ 87]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.13-14.36.03:466][ 87]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.13-14.36.03:466][ 87]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.36.03:467][ 87]LogNet: Game client on port 17777, rate 10000
+[2020.09.13-14.36.03:468][ 87]PIE: Play in editor start time for /Game/Maps/FirstPersonExampleMap -0.149
+[2020.09.13-14.36.03:472][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.36.03:473][ 87]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62629
+[2020.09.13-14.36.03:473][ 87]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 126079036090205229100067073114107081232142020182186082132014
+[2020.09.13-14.36.03:476][ 87]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 126079036090205229100067073114107081232142020182186082132014
+[2020.09.13-14.36.03:534][ 88]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62629
+[2020.09.13-14.36.03:534][ 88]LogHandshake: SendChallengeAck. InCookie: 126079036090205229100067073114107081232142020182186082132014
+[2020.09.13-14.36.03:534][ 88]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62629
+[2020.09.13-14.36.03:535][ 88]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.36.03:535][ 88]LogNet: NotifyAcceptedConnection: Name: FirstPersonExampleMap, TimeStamp: 09/13/20 20:06:03, [UNetConnection] RemoteAddr: 127.0.0.1:62629, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.36.03:536][ 88]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62629, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.36.03:537][ 88]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.36.03:551][ 89]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap: Accepted
+[2020.09.13-14.36.03:551][ 89]LogNet: Remote platform little endian=1
+[2020.09.13-14.36.03:551][ 89]LogNet: This platform little endian=1
+[2020.09.13-14.36.03:552][ 89]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.09.13-14.36.03:564][ 90]LogNet: Login request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-E49457204446A8EED3A7E18E9292EE55 userId: NULL:DESKTOP-C697CL8-E49457204446A8EED3A7E18E9292EE55 platform: NULL
+[2020.09.13-14.36.03:566][ 90]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_FirstPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.13-14.36.03:567][ 90]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_FirstPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.13-14.36.03:567][ 90]LogWorld: BeginTearingDown for /Temp/Untitled_4
+[2020.09.13-14.36.03:567][ 90]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.36.03:594][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.09.13-14.36.03:613][ 90]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.36.03:613][ 90]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.36.03:615][ 90]LogWorld: Bringing World /Game/Maps/UEDPIE_2_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.06.03
+[2020.09.13-14.36.03:616][ 90]LogWorld: Bringing up level for play took: 0.002248
+[2020.09.13-14.36.03:616][ 90]LogLoad: Took 0.049752 seconds to LoadMap(/Game/Maps/UEDPIE_1_FirstPersonExampleMap)
+[2020.09.13-14.36.03:634][ 91]LogNet: Client netspeed is 10000
+[2020.09.13-14.36.03:635][ 91]LogNet: Join request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-E49457204446A8EED3A7E18E9292EE55?SplitscreenCount=1
+[2020.09.13-14.36.03:635][ 91]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.36.03:637][ 91]LogNet: Join succeeded: DESKTOP-C697CL8-E494
+[2020.09.13-14.36.03:710][ 96]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.36.03:745][ 99]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.36.11:227][780]LogTemp: Overlapped with extraction zone!
+[2020.09.13-14.36.11:239][781]LogTemp: Overlapped with extraction zone!
+[2020.09.13-14.36.13:963][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.36.13:964][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.36.13:964][ 35]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_FirstPersonExampleMap
+[2020.09.13-14.36.13:979][ 35]LogSlate: Window 'FPSGame Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.36.13:982][ 35]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.36.13:990][ 35]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2020.09.13-14.36.13:990][ 35]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2020.09.13-14.36.13:990][ 35]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-E49457204446A8EED3A7E18E9292EE55, Channels: 13, Time: 2020.09.13-14.36.13
+[2020.09.13-14.36.13:991][ 35]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-E49457204446A8EED3A7E18E9292EE55
+[2020.09.13-14.36.13:991][ 35]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2020.09.13-14.36.13:992][ 35]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.36.13:993][ 35]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.09.13-14.36.13:993][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.36.14:011][ 35]LogSlate: Window 'FPSGame Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.36.14:016][ 35]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.36.14:030][ 35]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2020.09.13-14.36.14:030][ 35]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2020.09.13-14.36.14:030][ 35]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62629, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-E49457204446A8EED3A7E18E9292EE55
+[2020.09.13-14.36.14:031][ 35]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62629, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-E49457204446A8EED3A7E18E9292EE55, Channels: 13, Time: 2020.09.13-14.36.14
+[2020.09.13-14.36.14:031][ 35]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62629, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-E49457204446A8EED3A7E18E9292EE55
+[2020.09.13-14.36.14:032][ 35]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2020.09.13-14.36.14:033][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.13-14.36.14:033][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.36.14:075][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.09.13-14.36.14:094][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.09.13-14.36.14:094][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.09.13-14.41.04:530][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.41.04:741][229]Candidate modules for hot reload:
+[2020.09.13-14.41.04:741][229]  FPSGame
+[2020.09.13-14.41.04:742][229]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,424 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject"  -IgnoreJunk]
+[2020.09.13-14.41.04:745][229]Warning: Starting HotReload took  0.0s.
+[2020.09.13-14.41.16:128][566]CompilerResultsLog: New page: Compilation - Sep 14, 2020, 1:41:16 AM
+[2020.09.13-14.41.16:129][566]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4).
+[2020.09.13-14.41.16:129][566]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.09.13-14.41.16:129][566]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\FPSGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.09.13-14.41.16:130][566]CompilerResultsLog: Reflection code generated for FPSGameEditor in 8.4571854 seconds
+[2020.09.13-14.41.16:130][566]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.09.13-14.41.16:130][566]CompilerResultsLog: Building 3 actions with 8 processes...
+[2020.09.13-14.41.16:131][566]CompilerResultsLog:   [1/3] UE4Editor-FPSGame-0424.lib
+[2020.09.13-14.41.16:131][566]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0424.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0424.exp
+[2020.09.13-14.41.16:131][566]CompilerResultsLog:   [2/3] UE4Editor-FPSGame-0424.dll
+[2020.09.13-14.41.16:132][566]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0424.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0424.suppressed.exp
+[2020.09.13-14.41.16:132][566]CompilerResultsLog:   [3/3] FPSGameEditor.target
+[2020.09.13-14.41.16:133][566]CompilerResultsLog: Total time in Parallel executor: 1.34 seconds
+[2020.09.13-14.41.16:133][566]CompilerResultsLog: Total execution time: 11.25 seconds
+[2020.09.13-14.41.16:133][566]LogMainFrame: MainFrame: Module compiling took 11.397 seconds
+[2020.09.13-14.41.16:159][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.09.13-14.41.16:177][566]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2872 classes and 685 folders.
+[2020.09.13-14.41.16:177][566]Display: HotReload took 11.5s.
+[2020.09.13-14.41.19:454][959]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.13-14.41.19:472][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.41.19:472][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.13-14.41.19:472][959]PIE: New page: PIE session: FirstPersonExampleMap (Sep 14, 2020, 1:41:19 AM)
+[2020.09.13-14.41.19:473][959]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.41.19:489][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016730s)
+[2020.09.13-14.41.19:491][959]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.41.19:491][959]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2020.09.13-14.41.19:491][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap (0.018602s)
+[2020.09.13-14.41.19:517][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.09.13-14.41.19:537][959]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.13-14.41.19:558][959]LogInit: FAudioDevice initialized.
+[2020.09.13-14.41.19:568][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.41.19:569][959]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.13-14.41.19:573][959]LogWorld: Bringing World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.11.19
+[2020.09.13-14.41.19:574][959]LogWorld: Bringing up level for play took: 0.004495
+[2020.09.13-14.41.19:575][959]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.09.13-14.41.19:579][959]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.41.19:580][959]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2020.09.13-14.41.19:580][959]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.41.19:580][959]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.13-14.41.19:580][959]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.13-14.41.19:581][959]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.13-14.41.19:581][959]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.41.19:581][959]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2020.09.13-14.41.19:585][959]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_FirstPersonExampleMap -0.032
+[2020.09.13-14.41.19:593][959]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.13-14.41.19:602][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.41.19:603][959]LogNet: Browse: 127.0.0.1:17777//Game/Maps/FirstPersonExampleMap
+[2020.09.13-14.41.19:603][959]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.41.19:603][959]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2020.09.13-14.41.19:604][959]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.13-14.41.19:604][959]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.13-14.41.19:605][959]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.41.19:605][959]LogNet: Game client on port 17777, rate 10000
+[2020.09.13-14.41.19:608][959]PIE: Play in editor start time for /Game/Maps/FirstPersonExampleMap -0.009
+[2020.09.13-14.41.19:613][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.41.19:614][959]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64788
+[2020.09.13-14.41.19:614][959]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 204077221209042032195143076008250195252250108163146017226184
+[2020.09.13-14.41.19:617][959]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 204077221209042032195143076008250195252250108163146017226184
+[2020.09.13-14.41.19:686][960]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64788
+[2020.09.13-14.41.19:687][960]LogHandshake: SendChallengeAck. InCookie: 204077221209042032195143076008250195252250108163146017226184
+[2020.09.13-14.41.19:687][960]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64788
+[2020.09.13-14.41.19:688][960]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.41.19:688][960]LogNet: NotifyAcceptedConnection: Name: FirstPersonExampleMap, TimeStamp: 09/13/20 20:11:19, [UNetConnection] RemoteAddr: 127.0.0.1:64788, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.41.19:689][960]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64788, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.41.19:690][960]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.41.19:718][961]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap: Accepted
+[2020.09.13-14.41.19:719][961]LogNet: Remote platform little endian=1
+[2020.09.13-14.41.19:719][961]LogNet: This platform little endian=1
+[2020.09.13-14.41.19:721][961]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.09.13-14.41.19:735][962]LogNet: Login request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-2725481942BBD4DFB383189A36D18668 userId: NULL:DESKTOP-C697CL8-2725481942BBD4DFB383189A36D18668 platform: NULL
+[2020.09.13-14.41.19:737][962]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_FirstPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.13-14.41.19:737][962]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_FirstPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.13-14.41.19:738][962]LogWorld: BeginTearingDown for /Temp/Untitled_5
+[2020.09.13-14.41.19:738][962]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.41.19:781][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.09.13-14.41.19:799][962]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.41.19:800][962]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.41.19:802][962]LogWorld: Bringing World /Game/Maps/UEDPIE_2_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.11.19
+[2020.09.13-14.41.19:803][962]LogWorld: Bringing up level for play took: 0.002064
+[2020.09.13-14.41.19:803][962]LogLoad: Took 0.065306 seconds to LoadMap(/Game/Maps/UEDPIE_1_FirstPersonExampleMap)
+[2020.09.13-14.41.19:819][963]LogNet: Client netspeed is 10000
+[2020.09.13-14.41.19:819][963]LogNet: Join request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-2725481942BBD4DFB383189A36D18668?SplitscreenCount=1
+[2020.09.13-14.41.19:820][963]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.41.19:821][963]LogNet: Join succeeded: DESKTOP-C697CL8-2725
+[2020.09.13-14.41.19:895][965]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.41.19:918][966]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.41.24:981][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.41.25:482][419]LogTemp: Heard!
+[2020.09.13-14.41.25:482][419]LogTemp: Heard!
+[2020.09.13-14.41.25:691][438]LogTemp: Heard!
+[2020.09.13-14.41.25:691][438]LogTemp: Heard!
+[2020.09.13-14.41.25:894][457]LogTemp: Heard!
+[2020.09.13-14.41.25:894][457]LogTemp: Heard!
+[2020.09.13-14.41.26:095][476]LogTemp: Heard!
+[2020.09.13-14.41.26:095][476]LogTemp: Heard!
+[2020.09.13-14.41.26:299][495]LogTemp: Seen!
+[2020.09.13-14.41.26:299][495]LogTemp: Seen!
+[2020.09.13-14.41.27:331][588]LogTemp: Seen!
+[2020.09.13-14.41.27:331][588]LogTemp: Seen!
+[2020.09.13-14.41.27:534][606]LogTemp: Seen!
+[2020.09.13-14.41.27:535][606]LogTemp: Seen!
+[2020.09.13-14.41.27:953][643]LogTemp: Seen!
+[2020.09.13-14.41.27:954][643]LogTemp: Seen!
+[2020.09.13-14.41.28:160][662]LogTemp: Seen!
+[2020.09.13-14.41.28:161][662]LogTemp: Seen!
+[2020.09.13-14.41.29:183][753]LogTemp: Seen!
+[2020.09.13-14.41.29:184][753]LogTemp: Seen!
+[2020.09.13-14.41.29:393][772]LogTemp: Seen!
+[2020.09.13-14.41.29:394][772]LogTemp: Seen!
+[2020.09.13-14.41.30:001][825]LogTemp: Seen!
+[2020.09.13-14.41.30:002][825]LogTemp: Seen!
+[2020.09.13-14.41.30:208][843]LogTemp: Seen!
+[2020.09.13-14.41.30:208][843]LogTemp: Seen!
+[2020.09.13-14.41.30:829][897]LogTemp: Seen!
+[2020.09.13-14.41.30:830][897]LogTemp: Seen!
+[2020.09.13-14.41.31:032][915]LogTemp: Seen!
+[2020.09.13-14.41.31:033][915]LogTemp: Seen!
+[2020.09.13-14.41.31:415][945]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.41.31:416][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.41.31:416][945]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_FirstPersonExampleMap
+[2020.09.13-14.41.31:431][945]LogSlate: Window 'FPSGame Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.41.31:435][945]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.41.31:442][945]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2020.09.13-14.41.31:442][945]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2020.09.13-14.41.31:443][945]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-2725481942BBD4DFB383189A36D18668, Channels: 14, Time: 2020.09.13-14.41.31
+[2020.09.13-14.41.31:443][945]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-2725481942BBD4DFB383189A36D18668
+[2020.09.13-14.41.31:444][945]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2020.09.13-14.41.31:445][945]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.41.31:445][945]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.09.13-14.41.31:446][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.41.31:459][945]LogSlate: Window 'FPSGame Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.41.31:469][945]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.41.31:480][945]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2020.09.13-14.41.31:480][945]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2020.09.13-14.41.31:480][945]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:64788, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-2725481942BBD4DFB383189A36D18668
+[2020.09.13-14.41.31:481][945]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64788, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-2725481942BBD4DFB383189A36D18668, Channels: 14, Time: 2020.09.13-14.41.31
+[2020.09.13-14.41.31:481][945]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64788, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-2725481942BBD4DFB383189A36D18668
+[2020.09.13-14.41.31:482][945]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2020.09.13-14.41.31:483][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.13-14.41.31:483][945]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.41.31:520][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.09.13-14.41.31:536][946]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.09.13-14.41.31:536][946]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.09.13-14.41.33:423][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.41.33:581][189]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.13-14.41.33:598][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.41.33:599][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.13-14.41.33:599][189]PIE: New page: PIE session: FirstPersonExampleMap (Sep 14, 2020, 1:41:33 AM)
+[2020.09.13-14.41.33:599][189]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.41.33:620][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020220s)
+[2020.09.13-14.41.33:622][189]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.41.33:622][189]LogPlayLevel: PIE: World Init took: (0.002467s)
+[2020.09.13-14.41.33:623][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap (0.023511s)
+[2020.09.13-14.41.33:650][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.09.13-14.41.33:669][189]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.13-14.41.33:692][189]LogInit: FAudioDevice initialized.
+[2020.09.13-14.41.33:700][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.41.33:701][189]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.13-14.41.33:705][189]LogWorld: Bringing World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.11.33
+[2020.09.13-14.41.33:706][189]LogWorld: Bringing up level for play took: 0.003973
+[2020.09.13-14.41.33:706][189]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.09.13-14.41.33:710][189]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.41.33:710][189]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2020.09.13-14.41.33:710][189]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.41.33:710][189]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.13-14.41.33:710][189]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.13-14.41.33:711][189]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.13-14.41.33:711][189]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.41.33:712][189]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2020.09.13-14.41.33:714][189]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_FirstPersonExampleMap 0.097
+[2020.09.13-14.41.33:721][189]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.09.13-14.41.33:727][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.41.33:728][189]LogNet: Browse: 127.0.0.1:17777//Game/Maps/FirstPersonExampleMap
+[2020.09.13-14.41.33:728][189]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.41.33:728][189]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2020.09.13-14.41.33:728][189]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.09.13-14.41.33:729][189]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.09.13-14.41.33:730][189]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.41.33:730][189]LogNet: Game client on port 17777, rate 10000
+[2020.09.13-14.41.33:732][189]PIE: Play in editor start time for /Game/Maps/FirstPersonExampleMap 0.114
+[2020.09.13-14.41.33:737][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.41.33:737][189]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55717
+[2020.09.13-14.41.33:738][189]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 075095167021175201092250250005054206213214185133066228121054
+[2020.09.13-14.41.33:739][189]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 075095167021175201092250250005054206213214185133066228121054
+[2020.09.13-14.41.33:798][190]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55717
+[2020.09.13-14.41.33:798][190]LogHandshake: SendChallengeAck. InCookie: 075095167021175201092250250005054206213214185133066228121054
+[2020.09.13-14.41.33:799][190]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55717
+[2020.09.13-14.41.33:799][190]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.41.33:800][190]LogNet: NotifyAcceptedConnection: Name: FirstPersonExampleMap, TimeStamp: 09/13/20 20:11:33, [UNetConnection] RemoteAddr: 127.0.0.1:55717, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.41.33:800][190]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55717, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.41.33:802][190]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.09.13-14.41.33:815][191]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap: Accepted
+[2020.09.13-14.41.33:815][191]LogNet: Remote platform little endian=1
+[2020.09.13-14.41.33:815][191]LogNet: This platform little endian=1
+[2020.09.13-14.41.33:817][191]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.09.13-14.41.33:828][192]LogNet: Login request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-AA98E62C43CD366EBF5C09BA9E8543B2 userId: NULL:DESKTOP-C697CL8-AA98E62C43CD366EBF5C09BA9E8543B2 platform: NULL
+[2020.09.13-14.41.33:830][192]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_FirstPersonExampleMap, Game: /Game/Blueprints/BP_GameMode.BP_GameMode_C)
+[2020.09.13-14.41.33:831][192]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_FirstPersonExampleMap?game=/Game/Blueprints/BP_GameMode.BP_GameMode_C
+[2020.09.13-14.41.33:831][192]LogWorld: BeginTearingDown for /Temp/Untitled_6
+[2020.09.13-14.41.33:831][192]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.41.33:857][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.09.13-14.41.33:873][192]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.41.33:874][192]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.41.33:877][192]LogWorld: Bringing World /Game/Maps/UEDPIE_2_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.11.33
+[2020.09.13-14.41.33:878][192]LogWorld: Bringing up level for play took: 0.003156
+[2020.09.13-14.41.33:878][192]LogLoad: Took 0.047605 seconds to LoadMap(/Game/Maps/UEDPIE_1_FirstPersonExampleMap)
+[2020.09.13-14.41.33:897][193]LogNet: Client netspeed is 10000
+[2020.09.13-14.41.33:897][193]LogNet: Join request: /Game/Maps/FirstPersonExampleMap?Name=DESKTOP-C697CL8-AA98E62C43CD366EBF5C09BA9E8543B2?SplitscreenCount=1
+[2020.09.13-14.41.33:898][193]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.41.33:899][193]LogNet: Join succeeded: DESKTOP-C697CL8-AA98
+[2020.09.13-14.41.33:953][197]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.41.34:014][202]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.09.13-14.41.43:292][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.41.50:429][722]LogTemp: Overlapped with extraction zone!
+[2020.09.13-14.41.50:439][723]LogTemp: Overlapped with extraction zone!
+[2020.09.13-14.41.55:162][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.41.55:163][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.41.55:163][159]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_FirstPersonExampleMap
+[2020.09.13-14.41.55:177][159]LogSlate: Window 'FPSGame Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.41.55:182][159]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.41.55:193][159]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2020.09.13-14.41.55:193][159]LogNet: DestroyNamedNetDriver IpNetDriver_11 [GameNetDriver]
+[2020.09.13-14.41.55:193][159]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-AA98E62C43CD366EBF5C09BA9E8543B2, Channels: 13, Time: 2020.09.13-14.41.55
+[2020.09.13-14.41.55:194][159]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-AA98E62C43CD366EBF5C09BA9E8543B2
+[2020.09.13-14.41.55:194][159]LogExit: GameNetDriver IpNetDriver_11 shut down
+[2020.09.13-14.41.55:195][159]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.41.55:196][159]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.09.13-14.41.55:196][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.41.55:210][159]LogSlate: Window 'FPSGame Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.13-14.41.55:220][159]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.13-14.41.55:232][159]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2020.09.13-14.41.55:232][159]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2020.09.13-14.41.55:232][159]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:55717, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-AA98E62C43CD366EBF5C09BA9E8543B2
+[2020.09.13-14.41.55:232][159]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55717, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-AA98E62C43CD366EBF5C09BA9E8543B2, Channels: 13, Time: 2020.09.13-14.41.55
+[2020.09.13-14.41.55:233][159]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55717, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:DESKTOP-C697CL8-AA98E62C43CD366EBF5C09BA9E8543B2
+[2020.09.13-14.41.55:233][159]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2020.09.13-14.41.55:234][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.13-14.41.55:235][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.41.55:273][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.09.13-14.41.55:290][160]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.09.13-14.41.55:290][160]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.09.13-14.50.13:615][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.50.13:881][133]Candidate modules for hot reload:
+[2020.09.13-14.50.13:882][133]  FPSGame
+[2020.09.13-14.50.13:882][133]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,9784 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject"  -IgnoreJunk]
+[2020.09.13-14.50.13:886][133]Warning: Starting HotReload took  0.0s.
+[2020.09.13-14.50.24:532][387]CompilerResultsLog: New page: Compilation - Sep 14, 2020, 1:50:24 AM
+[2020.09.13-14.50.24:533][387]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4).
+[2020.09.13-14.50.24:533][387]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.09.13-14.50.24:533][387]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\FPSGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.09.13-14.50.24:534][387]CompilerResultsLog: Reflection code generated for FPSGameEditor in 8.055744 seconds
+[2020.09.13-14.50.24:534][387]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.09.13-14.50.24:534][387]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.09.13-14.50.24:535][387]CompilerResultsLog:   [1/4] FPSGameState.cpp
+[2020.09.13-14.50.24:535][387]CompilerResultsLog:    C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Source\FPSGame\Private\FPSGameState.cpp(10) : error C2676: binary '++': 'TActorIterator<APawn>' does not define this operator or a conversion to a type acceptable to the predefined operator
+[2020.09.13-14.50.24:535][387]LogMainFrame: MainFrame: Module compiling took 10.658 seconds
+[2020.09.13-14.50.24:536][387]Warning: HotReload failed, recompile failed
+[2020.09.13-14.50.30:992][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.50.52:867][819]Candidate modules for hot reload:
+[2020.09.13-14.50.52:867][819]  FPSGame
+[2020.09.13-14.50.52:867][819]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,6 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject"  -IgnoreJunk]
+[2020.09.13-14.50.52:870][819]Warning: Starting HotReload took  0.0s.
+[2020.09.13-14.51.04:951][886]CompilerResultsLog: New page: Compilation - Sep 14, 2020, 1:51:04 AM
+[2020.09.13-14.51.04:951][886]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4).
+[2020.09.13-14.51.04:952][886]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.09.13-14.51.04:952][886]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\FPSGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.09.13-14.51.04:952][886]CompilerResultsLog: Reflection code generated for FPSGameEditor in 8.1312379 seconds
+[2020.09.13-14.51.04:952][886]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.09.13-14.51.04:953][886]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.09.13-14.51.04:953][886]CompilerResultsLog:   [1/4] FPSGameState.cpp
+[2020.09.13-14.51.04:953][886]CompilerResultsLog:   [2/4] UE4Editor-FPSGame-0006.lib
+[2020.09.13-14.51.04:953][886]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0006.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0006.exp
+[2020.09.13-14.51.04:953][886]CompilerResultsLog:   [3/4] UE4Editor-FPSGame-0006.dll
+[2020.09.13-14.51.04:953][886]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0006.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-0006.suppressed.exp
+[2020.09.13-14.51.04:954][886]CompilerResultsLog:   [4/4] FPSGameEditor.target
+[2020.09.13-14.51.04:954][886]CompilerResultsLog: Total time in Parallel executor: 2.06 seconds
+[2020.09.13-14.51.04:954][886]CompilerResultsLog: Total execution time: 11.63 seconds
+[2020.09.13-14.51.04:954][886]LogMainFrame: MainFrame: Module compiling took 12.091 seconds
+[2020.09.13-14.51.04:981][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.09.13-14.51.04:999][886]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2872 classes and 685 folders.
+[2020.09.13-14.51.04:999][886]Display: HotReload took 12.1s.
+[2020.09.13-14.55.53:431][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.13-14.55.53:582][899]Candidate modules for hot reload:
+[2020.09.13-14.55.53:583][899]  FPSGame
+[2020.09.13-14.55.53:583][899]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSGame,4503 Win64 Development -TargetType=Editor -Project="C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject" "C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Stealth-Game-UE4/Stealth Game/FPSGame.uproject"  -IgnoreJunk]
+[2020.09.13-14.55.53:586][899]Warning: Starting HotReload took  0.0s.
+[2020.09.13-14.56.05:729][332]CompilerResultsLog: New page: Compilation - Sep 14, 2020, 1:56:05 AM
+[2020.09.13-14.56.05:729][332]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4).
+[2020.09.13-14.56.05:730][332]CompilerResultsLog: Parsing headers for FPSGameEditor
+[2020.09.13-14.56.05:730][332]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\FPSGame.uproject" "C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\FPSGameEditor\Development\FPSGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.09.13-14.56.05:730][332]CompilerResultsLog: Reflection code generated for FPSGameEditor in 8.4631348 seconds
+[2020.09.13-14.56.05:730][332]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.09.13-14.56.05:731][332]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.09.13-14.56.05:731][332]CompilerResultsLog:   [1/4] FPSGameState.cpp
+[2020.09.13-14.56.05:731][332]CompilerResultsLog:   [2/4] UE4Editor-FPSGame-4503.lib
+[2020.09.13-14.56.05:731][332]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-4503.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-4503.exp
+[2020.09.13-14.56.05:731][332]CompilerResultsLog:   [3/4] UE4Editor-FPSGame-4503.dll
+[2020.09.13-14.56.05:732][332]CompilerResultsLog:      Creating library C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-4503.suppressed.lib and object C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\UE4Editor-FPSGame-4503.suppressed.exp
+[2020.09.13-14.56.05:732][332]CompilerResultsLog:   [4/4] FPSGameEditor.target
+[2020.09.13-14.56.05:732][332]CompilerResultsLog: Total time in Parallel executor: 2.15 seconds
+[2020.09.13-14.56.05:732][332]CompilerResultsLog: Total execution time: 12.01 seconds
+[2020.09.13-14.56.05:732][332]LogMainFrame: MainFrame: Module compiling took 12.154 seconds
+[2020.09.13-14.56.05:757][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.09.13-14.56.05:783][332]LogClass: EAIState HotReload.
+[2020.09.13-14.56.05:796][332]LogContentBrowser: Native class hierarchy updated for 'FPSGame' in 0.0005 seconds. Added 8 classes and 3 folders.
+[2020.09.13-14.56.05:801][332]Display: HotReload successful (8 functions remapped  0 scriptstructs remapped)
+[2020.09.13-14.56.05:875][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.09.13-14.56.05:894][332]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2872 classes and 685 folders.
+[2020.09.13-14.56.05:894][332]Display: HotReload took 12.3s.
+[2020.09.13-14.56.08:578][654]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.13-14.56.08:595][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.09.13-14.56.08:596][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.13-14.56.08:596][654]PIE: New page: PIE session: FirstPersonExampleMap (Sep 14, 2020, 1:56:08 AM)
+[2020.09.13-14.56.08:596][654]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_FirstPersonExampleMap
+[2020.09.13-14.56.08:613][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016543s)
+[2020.09.13-14.56.08:615][654]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.09.13-14.56.08:615][654]LogPlayLevel: PIE: World Init took: (0.002100s)
+[2020.09.13-14.56.08:615][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap (0.019479s)
+[2020.09.13-14.56.08:645][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.09.13-14.56.08:667][654]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.13-14.56.08:690][654]LogInit: FAudioDevice initialized.
+[2020.09.13-14.56.08:701][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.13-14.56.08:701][654]LogLoad: Game class is 'BP_GameMode_C'
+[2020.09.13-14.56.08:705][654]LogWorld: Bringing World /Game/Maps/UEDPIE_1_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.09.13-20.26.08
+[2020.09.13-14.56.08:707][654]LogWorld: Bringing up level for play took: 0.004644
+[2020.09.13-14.56.08:707][654]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.09.13-14.56.08:712][654]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.56.08:713][654]LogTemp: Display: ParseSettings for IpNetDriver_12
+[2020.09.13-14.56.08:713][654]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.09.13-14.56.08:713][654]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.09.13-14.56.08:713][654]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.09.13-14.56.08:714][654]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.09.13-14.56.08:715][654]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.09.13-14.56.08:715][654]LogNet: GameNetDriver IpNetDriver_12 IpNetDriver listening on port 17777
+[2020.09.13-14.56.08:716][654]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.09.13-14.56.08:875][654]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.159 s
+[2020.09.13-14.56.08:875][654]LogOutputDevice: Error: === Handled ensure: ===
+[2020.09.13-14.56.08:875][654]LogOutputDevice: Error: 
+[2020.09.13-14.56.08:875][654]LogOutputDevice: Error: Ensure condition failed: InvocationList[ CurFunctionIndex ] != InDelegate [File:C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h] [Line: 556]
+[2020.09.13-14.56.08:876][654]LogOutputDevice: Error: 
+[2020.09.13-14.56.08:876][654]LogOutputDevice: Error: Stack: 
+[2020.09.13-14.56.08:876][654]LogOutputDevice: Error: [Callstack] 0x00007ffc33682349 UE4Editor-FPSGame-4503.dll!<lambda_33ec7e2fb0bb60ac30de90dfe42b338e>::operator()() [C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject\ScriptDelegates.h:556]
+[2020.09.13-14.56.08:876][654]LogOutputDevice: Error: [Callstack] 0x00007ffc33673565 UE4Editor-FPSGame-4503.dll!TMulticastScriptDelegate<FWeakObjectPtr>::Add() [C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject\ScriptDelegates.h:327]
+[2020.09.13-14.56.08:876][654]LogOutputDevice: Error: [Callstack] 0x00007ffc336737c6 UE4Editor-FPSGame-4503.dll!AFPSAIGuard::BeginPlay() [C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Source\FPSGame\Private\FPSAIGuard.cpp:28]
+[2020.09.13-14.56.08:877][654]LogOutputDevice: Error: [Callstack] 0x00007ffbea6e06b6 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.56.08:877][654]LogOutputDevice: Error: [Callstack] 0x00007ffbeb944710 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.56.08:877][654]LogOutputDevice: Error: [Callstack] 0x00007ffbeadd8d81 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.56.08:877][654]LogOutputDevice: Error: [Callstack] 0x00007ffbeb8f244e UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.56.08:877][654]LogOutputDevice: Error: [Callstack] 0x00007ffbead9ad29 UE4Editor-Engine.dll!UnknownFunction []
+[2020.09.13-14.56.08:878][654]LogOutputDevice: Error: [Callstack] 0x00007ffbe8d950b3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.56.08:878][654]LogOutputDevice: Error: [Callstack] 0x00007ffbe8dcd846 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.56.08:878][654]LogOutputDevice: Error: [Callstack] 0x00007ffbe8db42fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.56.08:878][654]LogOutputDevice: Error: [Callstack] 0x00007ffbe8dce265 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.56.08:878][654]LogOutputDevice: Error: [Callstack] 0x00007ffbe888d9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.56.08:878][654]LogOutputDevice: Error: [Callstack] 0x00007ffbe90e5296 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.13-14.56.08:878][654]LogOutputDevice: Error: [Callstack] 0x00007ff79ac97b0a UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.56.08:879][654]LogOutputDevice: Error: [Callstack] 0x00007ff79acaa91c UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.56.08:879][654]LogOutputDevice: Error: [Callstack] 0x00007ff79acaa9fa UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.56.08:879][654]LogOutputDevice: Error: [Callstack] 0x00007ff79acbb92c UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.56.08:879][654]LogOutputDevice: Error: [Callstack] 0x00007ff79acbe60e UE4Editor.exe!UnknownFunction []
+[2020.09.13-14.56.08:879][654]LogOutputDevice: Error: [Callstack] 0x00007ffc433b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.09.13-14.56.08:879][654]LogOutputDevice: Error: [Callstack] 0x00007ffc4412ce51 ntdll.dll!UnknownFunction []
+[2020.09.13-14.56.08:879][654]LogOutputDevice: Error: 
+[2020.09.13-14.56.08:884][654]LogStats:                SubmitErrorReport -  0.000 s

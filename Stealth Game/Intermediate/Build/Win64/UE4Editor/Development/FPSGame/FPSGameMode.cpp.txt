@@ -32,3 +32,5 @@ C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Sou
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
 C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSGameState.generated.h
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Source\FPSGame\Public\FPSPlayerController.h
+C:\Users\ADMIN\Documents\GitHub\theshwetapatil\Stealth-Game-UE4\Stealth Game\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSPlayerController.generated.h
